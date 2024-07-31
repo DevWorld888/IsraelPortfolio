@@ -27,7 +27,7 @@ const Hero = () => {
              className="text-center text-[40px] md:text-5xl "
           />
           <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-            Hi, I&apos;m Israel, a Next.js Developer based in Australia
+            Hi, I&apos;m Israel, a Developer based in Australia
           </p>
           <a href="#about">
             <MagicButton 
